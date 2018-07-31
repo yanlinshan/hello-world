@@ -1,2 +1,6 @@
 # hello-world
-just public repositery
+just public repository
+
+
+there is a few changes.
+
